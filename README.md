@@ -2,6 +2,10 @@
 
 This is a forked version of go-bindata, as the original author seems to be either busy in real life or has lost interest on this project. Rather than complaining about unmerged PRs and fixes, I'm just forking it here.
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/bindata](https://github.com/lestrrat-go/bindata). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 ## bindata
 
 This package converts any file into managable Go source code. Useful for
